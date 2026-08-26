@@ -1,8 +1,0 @@
-{
-  "name": "relax-day-hostinger-node",
-  "private": true,
-  "type": "module",
-  "engines": { "node": ">=22 <25" },
-  "scripts": { "start": "node --enable-source-maps server.mjs" },
-  "dependencies": { "supports-color": "^9.4.0" }
-}
