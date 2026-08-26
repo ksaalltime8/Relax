@@ -1,0 +1,8 @@
+{
+  "name": "relax-day-hostinger",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --enable-source-maps server.mjs"
+  }
+}
